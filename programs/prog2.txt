@@ -1,0 +1,6 @@
+x = 5
+y = 3
+temp = x
+x = y
+y = temp
+z = x * y - (x + y)
